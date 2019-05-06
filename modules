@@ -1,0 +1,26 @@
+
+GLUON_SITE_FEEDS='ffki ffffm_packages gluon_ssid_changer ffho_packages eulenfunk button'
+
+
+PACKAGES_FFFFM_PACKAGES_REPO=https://github.com/FreifunkVogtland/ffffm-packages.git
+PACKAGES_FFFFM_PACKAGES_COMMIT=acbaafcfa2176947db0c1a78c905183a9a5b7618
+
+PACKAGES_GLUON_SSID_CHANGER_REPO=https://github.com/FreifunkVogtland/gluon-ssid-changer.git
+PACKAGES_GLUON_SSID_CHANGER_COMMIT=222b96a30259a03ca8ecdb173d9d326077a6efec
+
+PACKAGES_FFHO_PACKAGES_REPO=https://github.com/FreifunkVogtland/ffho-packages.git
+PACKAGES_FFHO_PACKAGES_COMMIT=1d3129035896143146ef6ff3d25b0014cb404bc1
+
+# gluon-quickfix
+PACKAGES_EULENFUNK_REPO=https://github.com/Freifunk-Nord/eulenfunk-packages
+PACKAGES_EULENFUNK_COMMIT=a4be61c88e4628d3f039510c86cd20fe7f417261
+PACKAGES_EULENFUNK_BRANCH=lede
+
+# ffffm-button-bind
+PACKAGES_BUTTON_REPO=https://github.com/rubo77/ffm-packages
+PACKAGES_BUTTON_COMMIT=6fbd501ac1aeb2be76780fd8c43dd7ee4bc4ba10
+PACKAGES_BUTTON_BRANCH=2018.1.x
+
+PACKAGES_FFKI_REPO=https://github.com/freifunk-kiel/ffki-packages
+PACKAGES_FFKI_COMMIT=f21206db8c8f6362eb40609ff92f1e6713236c4b
+PACKAGES_FFKI_BRANCH=2018.1.x
